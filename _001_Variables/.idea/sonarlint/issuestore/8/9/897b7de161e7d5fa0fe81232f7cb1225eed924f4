@@ -1,0 +1,65 @@
+
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(úéÉç8êéà’­1
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(áë÷¥şÿÿÿÿ8ëéà’­1
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(˜Ÿœ½8ëéà’­1
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(Ğ£Å’ûÿÿÿÿ8ëéà’­1
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(Ò™Ôıÿÿÿÿ8ëéà’­1
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(”¼¹ß8êéà’­1
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(ÁÓ½´ıÿÿÿÿ8íéà’­1
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(×ÉÍÆ8íéà’­1
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(û†¤»úÿÿÿÿ8íéà’­1
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(ı€†8ìéà’­1
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(ÍÖµ°8ïéà’­1
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(“øóúÿÿÿÿ8ïéà’­1
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(ËÀæ›8ñéà’­1
+T	java:S106G"9Replace this use of System.out or System.err by a logger.(©ãê(8°¿ö’­1
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(±‰ıÿÿÿÿ8´¿ö’­1
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(Ö‡Â8È¿Ò“­1
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(Ç²«¸8É¿Ò“­1
+R
+java:S2209N"5Change this instance-reference to a static reference.(Ç²«¸8îéà’­1
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(ÓÎ³†ıÿÿÿÿ8É¿Ò“­1
+W
+java:S2209O"5Change this instance-reference to a static reference.(ÓÎ³†ıÿÿÿÿ8ø¯Ö“­1
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(á¸Ò±øÿÿÿÿ8Ê¿Ò“­1
+W
+java:S2209Q"5Change this instance-reference to a static reference.(á¸Ò±øÿÿÿÿ8îéà’­1
+T	java:S106R"9Replace this use of System.out or System.err by a logger.(Öòã8ù¯Ö“­1
+Q
+java:S2209R"5Change this instance-reference to a static reference.(Öòã8ø¯Ö“­1
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(ó–ø™8ù¯Ö“­1
+R
+java:S2209T"5Change this instance-reference to a static reference.(ó–ø™8ïéà’­1
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(¥ù¬êûÿÿÿÿ8ù¯Ö“­1
+W
+java:S2209U"5Change this instance-reference to a static reference.(¥ù¬êûÿÿÿÿ8ù¯Ö“­1
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(çÍ¯ 8ú¯Ö“­1
+R
+java:S2209W"5Change this instance-reference to a static reference.(çÍ¯ 8ïéà’­1
+T	java:S106X"9Replace this use of System.out or System.err by a logger.(¬ßí&8ú¯Ö“­1
+Q
+java:S2209X"5Change this instance-reference to a static reference.(¬ßí&8ú¯Ö“­1
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.( Ñíîıÿÿÿÿ8ú¯Ö“­1
+W
+java:S2209Z"5Change this instance-reference to a static reference.( Ñíîıÿÿÿÿ8ğéà’­1
+U	java:S106["9Replace this use of System.out or System.err by a logger.(ãä‰æ8û¯Ö“­1
+R
+java:S2209["5Change this instance-reference to a static reference.(ãä‰æ8ú¯Ö“­1
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(–²¶ì8û¯Ö“­1
+R
+java:S2209]"5Change this instance-reference to a static reference.(–²¶ì8ğéà’­1
+Z	java:S106^"9Replace this use of System.out or System.err by a logger.(Ö…Ä“ûÿÿÿÿ8û¯Ö“­1
+W
+java:S2209^"5Change this instance-reference to a static reference.(Ö…Ä“ûÿÿÿÿ8û¯Ö“­1
+Z	java:S106`"9Replace this use of System.out or System.err by a logger.(Åä‘²øÿÿÿÿ8û¯Ö“­1
+W
+java:S2209`"5Change this instance-reference to a static reference.(Åä‘²øÿÿÿÿ8ñéà’­1
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(¨Áá¦8ü¯Ö“­1
+R
+java:S2209a"5Change this instance-reference to a static reference.(¨Áá¦8û¯Ö“­1
+U	java:S106c"9Replace this use of System.out or System.err by a logger.(ÙÆ°®8³¶ä“­1
+R
+java:S2209c"5Change this instance-reference to a static reference.(ÙÆ°®8ñéà’­1
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(œüÿÿÿÿ8µœå“­1
+W
+java:S2209d"5Change this instance-reference to a static reference.(œüÿÿÿÿ8ü¯Ö“­1
