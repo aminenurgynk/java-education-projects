@@ -2,9 +2,9 @@
 P
 java:S1121G".Extract the assignment out of this expression.(Èôñ¶ùÿÿÿÿ8îÚ½”­1
 Y
-java:S2589;"7Remove this expression which always evaluates to "true"(ªÊª…ùÿÿÿÿ8¡—Ó”­1
-Y
 java:S2589<"7Remove this expression which always evaluates to "true"(Î•øúÿÿÿÿ8¡—Ó”­1
+Y
+java:S2589;"7Remove this expression which always evaluates to "true"(ªÊª…ùÿÿÿÿ8¡—Ó”­1
 W
 java:S1854B":Remove this useless assignment to local variable "result".(Û¯˜8çéÓ”­1
 G
