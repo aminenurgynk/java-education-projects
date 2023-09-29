@@ -1,0 +1,12 @@
+
+C
+java:S1659
+"!Declare "sum" on a separate line.(ºö£Ìùÿÿÿÿ8¡®¿’®1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ù…œ¹8«®¿’®1
+L
+java:S1197"*Move the array designators [] to the type.(ºÉäÐüÿÿÿÿ8«®¿’®1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(É¢Ïïþÿÿÿÿ8¬®¿’®1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ú•€Ë8­®¿’®1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ú•€Ë8¯®¿’®1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(…ÀÚé8±®¿’®1
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ÜÇçˆÿÿÿÿÿ8²®¿’®1
