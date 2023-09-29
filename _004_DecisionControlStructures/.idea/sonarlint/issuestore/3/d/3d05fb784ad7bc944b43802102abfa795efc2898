@@ -1,0 +1,42 @@
+
+n
+java:S1192"LDefine a constant instead of duplicating this literal "Selected : " 4 times.(àÑè½ÿÿÿÿÿ8‡ì”ş­1
+|
+java:S1192:"_Define a constant instead of duplicating this literal "Enter a number between 1 to 7 " 3 times.(Ç´†ş8„¥ş­1
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ø©£8ƒ’ş­1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(àÑè½ÿÿÿÿÿ8‰’ş­1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(àÑè½ÿÿÿÿÿ8‰’ş­1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(àÑè½ÿÿÿÿÿ8‰’ş­1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(àÑè½ÿÿÿÿÿ8Š’ş­1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÎÃœÀùÿÿÿÿ8Š’ş­1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ØÒº…üÿÿÿÿ8Š’ş­1
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(Áªªóøÿÿÿÿ8‹’ş­1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(²¿éşÿÿÿÿ8‹’ş­1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(Â Úúÿÿÿÿ8‹’ş­1
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(é‡ß8‹’ş­1
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(ğª€Üùÿÿÿÿ8‹’ş­1
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(“ ì8‹’ş­1
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(Ç´†ş8Œ’ş­1
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(¨³Ë8Œ’ş­1
+M
+java:S4524E"+Move this default to the end of the switch.(İ–Ò˜ÿÿÿÿÿ8Œ’ş­1
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(Ç´†ş8Œ’ş­1
+J	java:S108a")Either remove or fill this block of code.(»Òßğıÿÿÿÿ8’ş­1
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(Úñöëøÿÿÿÿ8’ş­1
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(…–¿”úÿÿÿÿ8’ş­1
+U	java:S106k"9Replace this use of System.out or System.err by a logger.(¨³Ë8’ş­1
+h	java:S128€"LEnd this switch case with an unconditional break, return or throw statement.(û¿48’ş­1
+m	java:S128y"LEnd this switch case with an unconditional break, return or throw statement.(µ»ïşıÿÿÿÿ8’ş­1
+m	java:S128w"LEnd this switch case with an unconditional break, return or throw statement.(‰ÆÄÎşÿÿÿÿ8’ş­1
+m	java:S128u"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ8’ş­1
+m	java:S128s"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8’ş­1
+U	java:S106t"9Replace this use of System.out or System.err by a logger.(“À¸ƒ8’ş­1
+Z	java:S106v"9Replace this use of System.out or System.err by a logger.(Šº¿Óıÿÿÿÿ8’ş­1
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.( ×ÖÄıÿÿÿÿ8’ş­1
+U	java:S106z"9Replace this use of System.out or System.err by a logger.(Ş®³Á8’ş­1
+Z	java:S106|"9Replace this use of System.out or System.err by a logger.(éƒ ıÿÿÿÿ8’ş­1
+Z	java:S106}"9Replace this use of System.out or System.err by a logger.(ıÙ¸ˆøÿÿÿÿ8’ş­1
+V	java:S106"9Replace this use of System.out or System.err by a logger.(Ğµƒû8’ş­1
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ü…ÑÙÿÿÿÿÿ8’ş­1
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(ŸÂ¢‡şÿÿÿÿ8’ş­1
+V	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(Ç´†ş8’ş­1

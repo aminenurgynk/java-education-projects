@@ -1,0 +1,14 @@
+
+{
+java:S1192"YDefine a constant instead of duplicating this literal "------------------------" 3 times.(éç¬ùÿÿÿÿ8™Çı­1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ê—»8›Çı­1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8½Çı­1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8½Çı­1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(·ùßóıÿÿÿÿ8¿Çı­1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8ÀÇı­1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(€ş‰«ÿÿÿÿÿ8ÂÇı­1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(·ùßóıÿÿÿÿ8ÃÇı­1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8ÃÇı­1
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(µü‹ùÿÿÿÿ8ÄÇı­1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ÊòİÔùÿÿÿÿ8ÄÇı­1
+X	java:S125%"<This block of commented-out lines of code should be removed.(ÜÒªÇ8ÄÇı­1

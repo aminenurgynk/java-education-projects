@@ -1,0 +1,33 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ô’µø8à—Íý­1
+Y
+java:S1854"<Remove this useless assignment to local variable "student6".(ýò¸ž8ë—Íý­1
+Y
+java:S1854"<Remove this useless assignment to local variable "student5".(›„š­8ë—Íý­1
+Y
+java:S1854"<Remove this useless assignment to local variable "student4".(Üé—“8ë—Íý­1
+^
+java:S1854
+"<Remove this useless assignment to local variable "student3".(ß·®´øÿÿÿÿ8ë—Íý­1
+^
+java:S1854	"<Remove this useless assignment to local variable "student2".(²±ïÿÿÿÿÿ8ë—Íý­1
+^
+java:S1854"<Remove this useless assignment to local variable "student1".(Ù˜¾…ùÿÿÿÿ8ë—Íý­1
+O
+java:S1481"-Remove this unused "student1" local variable.(Ù˜¾…ùÿÿÿÿ8½›Îý­1
+O
+java:S1481	"-Remove this unused "student2" local variable.(²±ïÿÿÿÿÿ8®’Ïý­1
+O
+java:S1481
+"-Remove this unused "student3" local variable.(ß·®´øÿÿÿÿ8®’Ïý­1
+J
+java:S1481"-Remove this unused "student4" local variable.(Üé—“8®’Ïý­1
+J
+java:S1481"-Remove this unused "student5" local variable.(›„š­8¯’Ïý­1
+J
+java:S1481"-Remove this unused "student6" local variable.(ýò¸ž8¯’Ïý­1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„íí8î—Íý­1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(™Û¶8î—Íý­1
+L
+java:S1197"*Move the array designators [] to the type.(‹«Üÿÿÿÿÿ8ï—Íý­1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Œ‚Â 8ï—Íý­1

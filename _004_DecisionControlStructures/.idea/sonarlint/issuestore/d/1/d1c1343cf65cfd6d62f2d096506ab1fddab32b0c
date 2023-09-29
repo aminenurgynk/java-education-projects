@@ -1,0 +1,34 @@
+
+‘
+java:S1192"oDefine a constant instead of duplicating this literal "You are eligible to obtain a driver's license." 3 times.(Œº¨šùÿÿÿÿ8éşƒş­1
+•
+java:S1192"sDefine a constant instead of duplicating this literal "You are not eligible to obtain a driver's license." 3 times.(½Ÿ„üÿÿÿÿÿ8ˆ¤…ş­1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‚åš•ûÿÿÿÿ8Åúş­1
+T
+java:S2589&"7Remove this expression which always evaluates to "true"(´“ˆû8Íúş­1
+T
+java:S2589
+"7Remove this expression which always evaluates to "true"(¥Ï¼8Íúş­1
+a
+java:S2583"DChange this condition so that it does not always evaluate to "false"(¥Ï¼8Íúş­1
+a
+java:S2583!"DChange this condition so that it does not always evaluate to "false"(¥Ï¼8Îúş­1
+D
+java:S1125
+"'Remove the unnecessary boolean literal.(¥Ï¼8Ğúş­1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Œº¨šùÿÿÿÿ8Ñúş­1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(½Ÿ„üÿÿÿÿÿ8Ñúş­1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²”Áã8Òúş­1
+D
+java:S1125"'Remove the unnecessary boolean literal.(¥Ï¼8Òúş­1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Œº¨šùÿÿÿÿ8Òúş­1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(½Ÿ„üÿÿÿÿÿ8Òúş­1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²”Áã8Òúş­1
+D
+java:S1125!"'Remove the unnecessary boolean literal.(¥Ï¼8Òúş­1
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(Œº¨šùÿÿÿÿ8Òúş­1
+D
+java:S1125&"'Remove the unnecessary boolean literal.(´“ˆû8Òúş­1
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(º´œ¿ıÿÿÿÿ8Óúş­1
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(â¿‘Ôûÿÿÿÿ8Óúş­1
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(½Ÿ„üÿÿÿÿÿ8Óúş­1
