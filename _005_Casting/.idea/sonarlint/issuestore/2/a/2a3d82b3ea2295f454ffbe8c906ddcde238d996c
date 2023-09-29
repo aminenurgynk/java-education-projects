@@ -1,0 +1,56 @@
+
+d
+java:S1854"BRemove this useless assignment to local variable "myBankAccount3".(ÙÚÙ”şÿÿÿÿ8õ¾ï®1
+d
+java:S1854"BRemove this useless assignment to local variable "myBankAccount2".(¼¹½Êúÿÿÿÿ8õ¾ï®1
+T
+java:S1854"7Remove this useless assignment to local variable "pi3".(ıä ö8ö›ù®1
+T
+java:S1854"7Remove this useless assignment to local variable "pi2".(Ø ¿€8ö¾ï®1
+Y
+java:S1854"7Remove this useless assignment to local variable "pi1".(ú¡ ÿÿÿÿÿ8ö¾ï®1
+b
+java:S1854"ERemove this useless assignment to local variable "sumOfBankAccount2".(óÑÈ´8ö¾ï®1
+g
+java:S1854"ERemove this useless assignment to local variable "sumOfBankAccount1".(¦ŞÀçúÿÿÿÿ8ö¾ï®1
+[
+java:S1854">Remove this useless assignment to local variable "population".(§÷¶Ï8ö¾ï®1
+W
+java:S1854":Remove this useless assignment to local variable "course".(Á–ì8ö¾ï®1
+_
+java:S1854"BRemove this useless assignment to local variable "numberOfMember".(Œá¥±8ö¾ï®1
+T
+java:S1854"7Remove this useless assignment to local variable "age".(È…‡8ö¾ï®1
+H
+java:S1481"+Remove this unused "status" local variable.(³Éë“8æ’ö®1
+E
+java:S1481"(Remove this unused "age" local variable.(È…‡8§íô®1
+P
+java:S1481"3Remove this unused "numberOfMember" local variable.(Œá¥±8£Íõ®1
+H
+java:S1481"+Remove this unused "course" local variable.(Á–ì8¤Äö®1
+L
+java:S1481"/Remove this unused "population" local variable.(§÷¶Ï8 ”÷®1
+X
+java:S1481"6Remove this unused "sumOfBankAccount1" local variable.(¦ŞÀçúÿÿÿÿ8‰¾ø®1
+S
+java:S1481"6Remove this unused "sumOfBankAccount2" local variable.(óÑÈ´8ÔÓø®1
+J
+java:S1481"(Remove this unused "pi1" local variable.(ú¡ ÿÿÿÿÿ8¸ùø®1
+E
+java:S1481"(Remove this unused "pi2" local variable.(Ø ¿€8ø¾ï®1
+E
+java:S1481"(Remove this unused "pi3" local variable.(ıä ö8ø›ù®1
+P
+java:S1481"3Remove this unused "myBankAccount1" local variable.(ş»ãÆ8÷»ú®1
+U
+java:S1481"3Remove this unused "myBankAccount2" local variable.(¼¹½Êúÿÿÿÿ8÷»ú®1
+U
+java:S1481"3Remove this unused "myBankAccount3" local variable.(ÙÚÙ”şÿÿÿÿ8Ğú®1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(Ø³ÿùÿÿÿÿ8ù¾ï®1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(¹Åëùÿÿÿÿ8ú¾ï®1
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(âØÿ–ÿÿÿÿÿ8ú¾ï®1
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(°í®Š8ú¾ï®1
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(‹’„úÿÿÿÿ8û¾ï®1
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ÀöĞøıÿÿÿÿ8û¾ï®1
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(æ‚¿í8ü¾ï®1

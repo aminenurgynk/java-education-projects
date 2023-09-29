@@ -1,0 +1,26 @@
+
+W
+java:S1854'";Remove this useless assignment to local variable "result6".(ρ―Χ%8•ι¥‘®1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›κήΒϊÿÿÿÿ8—ι¥‘®1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ΰΣ¨¨8—ι¥‘®1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…ΪΗύÿÿÿÿ8ι¥‘®1
+{
+java:S1158"YCall the static method Integer.toString(...) instead of instantiating a temporary object.(‡­θόÿÿÿÿ8ι¥‘®1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(²Υ·ΐψÿÿÿÿ8ι¥‘®1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(•ξηΤώÿÿÿÿ8™ι¥‘®1
+G
+java:S2201"+The return value of "valueOf" must be used.(σση,8™ι¥‘®1
+G
+java:S2201"+The return value of "valueOf" must be used.(ΗµΘc8™ι¥‘®1
+M
+java:S2201"+The return value of "valueOf" must be used.(Ε²¨®ωÿÿÿÿ8ι¥‘®1
+M
+java:S2201"+The return value of "valueOf" must be used.(Φ‡ε¤ϊÿÿÿÿ8ι¥‘®1
+H
+java:S2201"+The return value of "valueOf" must be used.(ύ„ƒ8ι¥‘®1
+H
+java:S2201 "+The return value of "valueOf" must be used.(€Τ8›ι¥‘®1
+H
+java:S2201!"+The return value of "valueOf" must be used.(’α±ϋ8›ι¥‘®1
+H
+java:S1481'",Remove this unused "result6" local variable.(ρ―Χ%8ι¥‘®1

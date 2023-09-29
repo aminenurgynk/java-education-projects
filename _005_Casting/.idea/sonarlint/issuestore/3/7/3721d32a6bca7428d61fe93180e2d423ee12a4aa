@@ -1,0 +1,25 @@
+
+V
+java:S1854
+"9Remove this useless assignment to local variable "name4".(÷…œ—8½éˆ‘®1
+[
+java:S1854	"9Remove this useless assignment to local variable "name3".(ð¸ÐÎûÿÿÿÿ8½éˆ‘®1
+[
+java:S1854"9Remove this useless assignment to local variable "name2".(öÞ¸àùÿÿÿÿ8½éˆ‘®1
+[
+java:S1854"9Remove this useless assignment to local variable "name1".(‘ºÂëûÿÿÿÿ8½éˆ‘®1
+L
+java:S1481"*Remove this unused "name1" local variable.(‘ºÂëûÿÿÿÿ8½éˆ‘®1
+L
+java:S1481"*Remove this unused "name2" local variable.(öÞ¸àùÿÿÿÿ8½éˆ‘®1
+L
+java:S1481	"*Remove this unused "name3" local variable.(ð¸ÐÎûÿÿÿÿ8½éˆ‘®1
+G
+java:S1481
+"*Remove this unused "name4" local variable.(÷…œ—8½éˆ‘®1
+L
+java:S1197"*Move the array designators [] to the type.(ø®©Àúÿÿÿÿ8¾éˆ‘®1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ê€ Âùÿÿÿÿ8¾éˆ‘®1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÍÞÙ†üÿÿÿÿ8¾éˆ‘®1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(©ÁóÍÿÿÿÿÿ8¿éˆ‘®1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«˜Ç¤ýÿÿÿÿ8¿éˆ‘®1

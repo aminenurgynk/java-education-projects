@@ -1,0 +1,24 @@
+
+{
+java:S1192"YDefine a constant instead of duplicating this literal "
+-----------------------" 4 times.(…è§øÿÿÿÿ8ôöü®1
+x
+java:S1192"[Define a constant instead of duplicating this literal "abcdefghijklmnopqrstuvwxyz" 3 times.(ØÈœ8õöü®1
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(æÊÄ¢8ùöü®1
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Øµ¾ø8ùöü®1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°¯ÿÁüÿÿÿÿ8÷ü®1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…è§øÿÿÿÿ8‘÷ü®1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ãî’Ó8’÷ü®1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ô’ö%8“÷ü®1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…è§øÿÿÿÿ8”÷ü®1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ı§ğí8”÷ü®1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…è§øÿÿÿÿ8”÷ü®1
+N
+java:S5663",Use simple literal for a single-line string.(øê–çúÿÿÿÿ8•÷ü®1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İ×Ëâûÿÿÿÿ8˜÷ü®1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…è§øÿÿÿÿ8˜÷ü®1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æÊÄ¢8™÷ü®1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Øµ¾ø8™÷ü®1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°¥©Àûÿÿÿÿ8š÷ü®1
