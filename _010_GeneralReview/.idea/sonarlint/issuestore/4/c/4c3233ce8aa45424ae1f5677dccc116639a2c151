@@ -1,0 +1,15 @@
+
+\
+java:S1854
+":Remove this useless assignment to local variable "myByte".(„¦«ÿÿÿÿÿ8Ñ¯ËÑ¯1
+W
+java:S1854":Remove this useless assignment to local variable "myChar".(Û”ûõ8Ò¯ËÑ¯1
+Q
+java:S1854"5Remove this useless assignment to local variable "a".(ıÎô8Ò¯ËÑ¯1
+B
+java:S1481"&Remove this unused "a" local variable.(ıÎô8Ò¯ËÑ¯1
+H
+java:S1481"+Remove this unused "myChar" local variable.(Û”ûõ8Ò¯ËÑ¯1
+M
+java:S1481
+"+Remove this unused "myByte" local variable.(„¦«ÿÿÿÿÿ8Ó¯ËÑ¯1

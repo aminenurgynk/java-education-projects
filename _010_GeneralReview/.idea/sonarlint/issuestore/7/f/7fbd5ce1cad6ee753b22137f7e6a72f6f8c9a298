@@ -1,0 +1,8 @@
+
+Z
+java:S2589	"8Remove this expression which always evaluates to "false"(©Û©Øüÿÿÿÿ8éûÒÑ¯1
+I
+java:S1125	"'Remove the unnecessary boolean literal.(©Û©Øüÿÿÿÿ8îûÒÑ¯1
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(ëı¬¸8îûÒÑ¯1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(€Î¤Ïıÿÿÿÿ8ïûÒÑ¯1

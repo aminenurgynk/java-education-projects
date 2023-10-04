@@ -1,0 +1,9 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÛèÃ—8‡æÛÑ¯1
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(ŠÇí•ÿÿÿÿÿ8‹æÛÑ¯1
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(¨Ä™í8ŒæÛÑ¯1
+J
+java:S2201"-The return value of "substring" must be used.(«ÖÒ8ŒæÛÑ¯1
+O
+java:S2201"-The return value of "substring" must be used.(á“Ş˜ûÿÿÿÿ8ŒæÛÑ¯1

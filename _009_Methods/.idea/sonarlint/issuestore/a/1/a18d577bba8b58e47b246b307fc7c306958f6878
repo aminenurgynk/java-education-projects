@@ -1,0 +1,7 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Hello" 3 times.(Ù¿éûÿÿÿÿ8ê‚ Ñ¯1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†€Òàøÿÿÿÿ8ë‚ Ñ¯1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8ğ‚ Ñ¯1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ü†Ê˜8ğ‚ Ñ¯1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ç€ı£ıÿÿÿÿ8ñ‚ Ñ¯1
