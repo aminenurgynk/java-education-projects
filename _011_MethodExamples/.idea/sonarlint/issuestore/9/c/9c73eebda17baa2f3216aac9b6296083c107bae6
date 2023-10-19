@@ -1,0 +1,11 @@
+
+d
+java:S1192"GDefine a constant instead of duplicating this literal "  NO: " 3 times.(Ò­Å¾8ö£ ´1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õ±öõ8íö” ´1
+B
+java:S2129" Remove this "String" constructor(›¿ü×úÿÿÿÿ8øö” ´1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æ‹å¯8£ ´1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(î¤Ø8ƒ£ ´1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ò­Å¾8ƒ£ ´1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(—ä€8„£ ´1
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(¸óğ¢8„£ ´1

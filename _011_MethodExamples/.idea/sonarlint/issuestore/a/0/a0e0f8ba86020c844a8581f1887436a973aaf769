@@ -1,0 +1,63 @@
+
+v
+java:S1192"TDefine a constant instead of duplicating this literal "Constructor Method." 4 times.(ò¬û¸ÿÿÿÿÿ8ÆÊò»´1
+c
+java:S1192"FDefine a constant instead of duplicating this literal "Hello" 4 times.(¨²¸µ8ÆÊò»´1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( ô¹±8ˆ¤ß»´1
+f
+java:S1172"DRemove these unused method parameters "fullname", "age", "haveTool".(ÆˆÌàıÿÿÿÿ8ÖÊò»´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ò¬û¸ÿÿÿÿÿ8ÖÊò»´1
+U
+java:S1172	"8Remove these unused method parameters "fullname", "age".(ƒ±ı8×Êò»´1
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ò¬û¸ÿÿÿÿÿ8×Êò»´1
+b
+java:S1172"ERemove these unused method parameters "fullname", "height", "weight".(§ÌÛ³8ØÊò»´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ò¬û¸ÿÿÿÿÿ8ØÊò»´1
+L
+java:S1172"/Remove this unused method parameter "fullname".(åÆ‘¹8ÙÊò»´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ò¬û¸ÿÿÿÿÿ8ÙÊò»´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¼ÕÕ­ûÿÿÿÿ8ÚÊò»´1
+Q
+java:S1172"/Remove this unused method parameter "quantity".(ó½µüÿÿÿÿ8ÛÊò»´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¼ÕÕ­ûÿÿÿÿ8ÛÊò»´1
+U
+java:S1172 "8Remove these unused method parameters "salary", "price".(şëÎ¢8ÜÊò»´1
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ÂùÚ8ÜÊò»´1
+U
+java:S1172%"8Remove these unused method parameters "salary", "price".(ı»¡ç8İÊò»´1
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ÂùÚ8İÊò»´1
+Z
+java:S1172*"8Remove these unused method parameters "price", "salary".(©•”ûùÿÿÿÿ8ŞÊò»´1
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(‹éñÕ8ßÊò»´1
+Z
+java:S11720"8Remove these unused method parameters "salary", "price".(øÁ›’ıÿÿÿÿ8ßÊò»´1
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(ÓÇçÜ8àÊò»´1
+R
+java:S1854L"6Remove this useless assignment to local variable "c3".(Ä­8¡¤ß»´1
+S
+java:S1854J"6Remove this useless assignment to local variable "c2".(©é®¨8¡¤ß»´1
+W
+java:S1854F"5Remove this useless assignment to local variable "c".(«¹Âµùÿÿÿÿ8¡¤ß»´1
+W
+java:S1854B":Remove this useless assignment to local variable "nesne2".(ç“˜ú8¢¤ß»´1
+W
+java:S1854@":Remove this useless assignment to local variable "nesne1".(™¶Ş¸8àÊò»´1
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(õÌ‚§øÿÿÿÿ8áÊò»´1
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(ô¤„å8âÊò»´1
+H
+java:S1481@"+Remove this unused "nesne1" local variable.(™¶Ş¸8äÊò»´1
+H
+java:S1481B"+Remove this unused "nesne2" local variable.(ç“˜ú8åÊò»´1
+H
+java:S1481F"&Remove this unused "c" local variable.(«¹Âµùÿÿÿÿ8§¤ß»´1
+D
+java:S1481J"'Remove this unused "c2" local variable.(©é®¨8¨¤ß»´1
+C
+java:S1481L"'Remove this unused "c3" local variable.(Ä­8¨¤ß»´1
+L
+java:S1144"*Remove this unused private "write" method.(ó½µüÿÿÿÿ8æÊò»´1
+G
+java:S1144%"*Remove this unused private "write" method.(ı»¡ç8æÊò»´1
+L
+java:S1144*"*Remove this unused private "write" method.(©•”ûùÿÿÿÿ8æÊò»´1

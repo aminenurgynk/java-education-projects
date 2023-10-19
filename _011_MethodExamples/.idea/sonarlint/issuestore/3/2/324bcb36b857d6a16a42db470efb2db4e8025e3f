@@ -1,0 +1,12 @@
+
+n
+java:S1192"LDefine a constant instead of duplicating this literal "Constructor" 4 times.(îîŞıÿÿÿÿ8á›Ô ´1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(çÁ–8ã›Ô ´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(îîŞıÿÿÿÿ8ê›Ô ´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(îîŞıÿÿÿÿ8ë›Ô ´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(îîŞıÿÿÿÿ8ë›Ô ´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(îîŞıÿÿÿÿ8í›Ô ´1
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ˆ’ó„8í›Ô ´1
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ÓÀÿùÿÿÿÿ8í›Ô ´1
+T	java:S106+"9Replace this use of System.out or System.err by a logger.(Š“a8ï›Ô ´1
+U	java:S106."9Replace this use of System.out or System.err by a logger.(ÌÙè8ï›Ô ´1

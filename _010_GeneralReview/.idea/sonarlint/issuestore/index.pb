@@ -2,8 +2,6 @@
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 h
-8src/main/java/com/aminenurgynk/review/_01_Variables.java,a\7\a77209d552b3e394f72d9852d44e1827bd74432d
-h
 8src/main/java/com/aminenurgynk/review/_02_Operators.java,2\2\224082bdfd9e7c2b5f28dbfcc4acdaf5d71c20ab
 h
 8src/main/java/com/aminenurgynk/review/_03_Condition.java,c\8\c8ac4370c9e9ec424450c93748246b3994441cef
@@ -23,8 +21,6 @@ f
 6src/main/java/com/aminenurgynk/example/IfConditon.java,7\f\7fbd5ce1cad6ee753b22137f7e6a72f6f8c9a298
 n
 >src/main/java/com/aminenurgynk/example/IncrementDecrement.java,c\1\c14864e0f153be407167b1bda8220995fc14be2d
-p
-@src/main/java/com/aminenurgynk/example/AssigmentsProperties.java,4\c\4c3233ce8aa45424ae1f5677dccc116639a2c151
 a
 1src/main/java/com/aminenurgynk/example/Loops.java,d\0\d08da9806968a059f7a7f8b29fa005795b81129b
 d
@@ -43,3 +39,7 @@ e
 5src/main/java/com/aminenurgynk/example/StringSub.java,5\6\560fb1d3b324f16e470a200bad9b5ff5681f3df3
 f
 6src/main/java/com/aminenurgynk/example/SwitchCase.java,e\4\e41a613da8c760a5e7e0b9eef5b0d5d93c4e6c9f
+p
+@src/main/java/com/aminenurgynk/example/AssigmentsProperties.java,4\c\4c3233ce8aa45424ae1f5677dccc116639a2c151
+h
+8src/main/java/com/aminenurgynk/review/_01_Variables.java,a\7\a77209d552b3e394f72d9852d44e1827bd74432d
